@@ -1,6 +1,12 @@
-body {
-        color: yellow;
-        background-color: #efefefde;
+body{
+        color: white;
+        background-color: #444444;
         font-family: Helvetica, sans-serif;
         font-size: 20px;
+}
+a{
+   color: white;
+}
+a:hover{
+    color: purple;
 }
