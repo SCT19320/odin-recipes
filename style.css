@@ -9,4 +9,6 @@ a{
 }
 a:hover{
     color: purple;
+    /*background-color: cadetblue;*/
+    font-size: 110%;
 }
