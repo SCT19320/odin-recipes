@@ -5,4 +5,4 @@ This is the first project that I have been asigned on the odin project. Currentl
 still left to learn, but I am confident that through focused practice and repetition of skills, I will soon be able to create basic
 html pages with ease.
 
-5/1/21
+5/1/22
